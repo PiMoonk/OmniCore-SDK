@@ -7,7 +7,7 @@
 This repository contains the **Open Source C++ SDK** and **Unity C# Clients** for the Omni Core architecture. 
 
 If you require the pre-compiled, production-ready Linux server binary (`omni_core`) optimized for true sub-microsecond latency, zero-GC C# payload injection, and unrestricted commercial use, the **Enterprise Binary License** is available here:
-👉 **[Acquire the Enterprise Binary via Gumroad]([https://gumroad.com/your-link-here](https://mariodreams46.gumroad.com/l/OmniCore))**
+👉 **[Acquire the Enterprise Binary via Gumroad](https://mariodreams46.gumroad.com/l/OmniCore)**
 
 For B2B integrations, custom HFT parser development, or architecture consultation, connect with the lead architect:
 👉 **[Márió Nádasi on LinkedIn](hwww.linkedin.com/in/márió-nádasi-70821a3a9)**
